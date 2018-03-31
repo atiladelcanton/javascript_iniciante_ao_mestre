@@ -1,1 +1,26 @@
 # CURSO JAVASCRIPT UDEMY
+
+- [ ] Sistema léxico do Javascript
+- [ ] Ferramentas para um caçador de bugs
+- [ ] Overview sobre orientação a objetos
+- [ ] Funções
+- [ ] DOM
+- [ ] Objetos
+- [ ] Mais DOM
+- [ ] Strings
+- [ ] Number
+- [ ] Math
+- [ ] Arrays
+- [ ] Trabalhando com Datas
+- [ ] Temporizadores
+- [ ] Browser Object Model (BOM)
+- [ ] Saltos ( Controle de Fluxo )
+- [ ] Mais Sobre Funções
+- [ ] Mais Sobre Objetos
+- [ ] Prototypes
+- [ ] Orientação a Objetos
+- [ ] MVC
+- [ ] AJAX
+- [ ] Expressão Regular
+- [ ] EcmaScript 2015 (ESNext)
+- [ ] Instruções e Testes
